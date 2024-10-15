@@ -108,13 +108,6 @@ Follow [this](https://github.com/peter-evans/create-pull-request/issues/155#issu
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/shufo2">
-                    <img src="https://avatars.githubusercontent.com/u/63141322?v=4" width="100;" alt="shufo2"/>
-                    <br />
-                    <sub><b>Shufo2</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/jonathansadowski">
                     <img src="https://avatars.githubusercontent.com/u/363749?v=4" width="100;" alt="jonathansadowski"/>
                     <br />
@@ -142,8 +135,6 @@ Follow [this](https://github.com/peter-evans/create-pull-request/issues/155#issu
                     <sub><b>Zoltan Haindrich</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/snyk-bot">
                     <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="100;" alt="snyk-bot"/>
